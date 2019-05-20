@@ -2,7 +2,6 @@ def say_hello (name = "Ruby Programmer")
   puts "Hello #{name}!"
 end
 name = "Gabriela"
-=======
   puts Hello #{name}!
 end
 name = Gabriela
